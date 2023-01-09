@@ -52,13 +52,13 @@ Users should be able to:
 ### Links
 
 
-- Live Site URL: https://00awaudby.github.io/interactive-component-rating/
-- Solution: https://www.frontendmentor.io/challenges/interactive-rating-component-koxpeBUmI/hub/interactive-crating-component-VDSZqYYppy
+- Live Site URL:https://00awaudby.github.io/profile-card-component/
+
 
 ## My process
 The process was as folows, i built out the html first using the markup provided, i then added the classes i needed for the styling , next i styled the project and added the state classes for hover and focus states.
 
-The final step was to add the javascript for the buttons and the compoent to work , i also added in a error message that will show if you submit with selecting a rating number.
+
 
 ### Built with
 
