@@ -39,7 +39,7 @@ The challenge was to build out a  profile card using all the css concpts and ski
 Users should be able to:
 
 - View the optimal layout for the app depending on their device's screen size
-- See hover states for all interactive elements on the page
+
 
 
 ### Screenshot
@@ -55,6 +55,8 @@ Users should be able to:
 
 
 - Live Site URL:https://00awaudby.github.io/profile-card-component/
+
+- Solution URL:https://www.frontendmentor.io/solutions/profile-card-o-aBgBLvh4
 
 
 ## My process
