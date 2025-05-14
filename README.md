@@ -54,7 +54,7 @@ Users should be able to:
 ### Links
 
 
-- Live Site URL:https://00awaudby.github.io/profile-card-component/
+- Live Site URL:https://ashleywaudbydev.github.io/profile-card-component/
 
 - Solution URL:https://www.frontendmentor.io/solutions/profile-card-o-aBgBLvh4
 
